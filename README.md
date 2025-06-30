@@ -1,1 +1,1 @@
-# prueba
+esta pagina se va a encargar de subir o mostrar las diferentes marcas, modelos y/o accesorios.
